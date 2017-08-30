@@ -1,4 +1,5 @@
-# quantoFaltaParaPS
+# Quanto Falta Para a PS
 Programa em Golang para calcular o quanto preciso tirar na Prova Semestral para passar de ano na FIAP.
+Muitas vezes estamos com pressa e precisamos calcular o mais rápido possível.
 
-**Boa sorte ao calcular o quanto você precisa!**
+**May the force be with you!**
